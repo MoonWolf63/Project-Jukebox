@@ -1,4 +1,4 @@
-# Project Jukebox V.1.5
+# Project Jukebox V.1.6
 Project Jukebox is a minecraft inspired discord bot that plays the minecraft music discs
 This project is currently still in production and may not work correctly
 
